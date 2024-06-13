@@ -25,6 +25,14 @@ This project replicates the appearance of Netflix. Its standout feature is the A
 ### [Vercel](https://github.com/SadatHussain7/vercel)
 This app allows you to deploy your code on the internet simply by providing a link to your GitHub project, similar to what Vercel offers. It is a microservice-based project built using Node.js, Queues, Redis, TypeScript, and Cloudflare's R2 storage. The front end of the app is developed with Next.js. The various services involved include uploading, deploying, and handling requests to deploy your app.
 
+## My Blogs
+Here are some of my latest blog posts:
+
+- Next.js: The Superpower Your Web Development Needs. (https://namastedev.com/blog/next-js-the-superpower-your-web-development-needs/)
+
+You can find more of my articles on [Hashnode](https://sadathussain.hashnode.dev/)
+
+
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadatHussain7&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadatHussain7&layout=compact)
