@@ -29,8 +29,9 @@ This app allows you to deploy your code on the internet simply by providing a li
 Here are some of my latest blog posts:
 
 - Next.js: The Superpower Your Web Development Needs. (https://namastedev.com/blog/next-js-the-superpower-your-web-development-needs/)
+- How to Set Up Jest with TypeScript in React: A Comprehensive Guide. (https://medium.com/@sadathussain325/setting-up-jest-with-typescript-in-a-react-project-a-step-by-step-guide-with-a-side-of-fun-ae6021729c67)
 
-You can find more of my articles on [Hashnode](https://sadathussain.hashnode.dev/)
+You can find more of my articles on [Medium](https://medium.com/@sadathussain325) & [Hashnode](https://sadathussain.hashnode.dev/)
 
 
 ## GitHub Stats
